@@ -6,6 +6,8 @@
 
 ###
 
+[![wakatime](https://wakatime.com/badge/user/8c8ef285-3483-43c9-93ee-51a044a475e9.svg)](https://wakatime.com/@8c8ef285-3483-43c9-93ee-51a044a475e9)
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
